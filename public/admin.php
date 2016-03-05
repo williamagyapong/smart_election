@@ -15,11 +15,11 @@ require("config.php");
     	} else{
     		$username =trim($_POST['username']);
     		$password =trim($_POST['password']);
-//echo $username;die();
+
     		$sql ="SELECT * FROM admin WHERE `username` ='$username' AND `password` ='$password'";
     		$result = mysql_query($sql);
     		$numrow = mysql_num_rows($result);
-    		//echo $numrow;die();
+    		
     		 if($numrow ==1 ) {
     		 	$row = mysql_fetch_assoc($result);
 
