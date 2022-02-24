@@ -1,20 +1,25 @@
-# smart_election
+# smart_election:
 facilitates electronic voting 
 
 ----------------------------------------------------------------------
 ELECTION SOFTWARE
+
 DEVELOPER:WILLIAM OFOSU AGYAPONG
+
 PROGRAMME OF STUDY: BSC. ACTUARIAL SCIENCE,KNUST
+
 DATE:23/O8/2015
+
 COPYRIGHT NOTICE: THIS SOFTWARE IS PROTECTED BY COPYRIGHT
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The administrator of this software can choose any of the following
 username and password combinations:
-  Username    Password
-1.admin1......234546
-2.admin2......237283
-3.admin3......238798
-4.admin4......235768
+
+  Username |   Password
+1.admin1|234546
+2.admin2|237283
+3.admin3|238798
+4.admin4|235768
 
 
 GETTING STARTED
