@@ -18,9 +18,10 @@ username and password combinations:
 
 
 GETTING STARTED
+
 To begin using this software, simply go through the following steps:
 1. Install the xampp server that comes with the software.
-2. Run the software scripts by copying and pasting the election folder into htdocs. To locate htdocs follow this path-
+2. Run the software scripts by copying and pasting the election folder into htdocs. To locate htdocs follow this path:
    Local disk(c)or drive(c)--> xampp--> htdocs.
 NB: After successfully going through the first 2 steps the software will be ready for use.
 3. Launch the xampp control panel 
